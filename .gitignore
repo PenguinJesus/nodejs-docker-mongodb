@@ -1,1 +1,3 @@
-container-1/node_modules/
+container-1/node_modules
+container-2/node_modules
+frontend-container/node_modules
